@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AL/Machine learning
 - 📫 How to reach me a.g.spandana@gmail.com
+- Linkedin: www.linkedin.com/in/spandana-akumalla
 
 <!---
 gnakspandana/gnakspandana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
